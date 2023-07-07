@@ -368,7 +368,7 @@ table td {
     top: 5rem;
     left: 50%;
     transform: translateX(-50%);
-    min-height: 40dvh;
+    min-height: 600px;
     box-shadow: var(--box-shadow);
     transition: .2s linear;
     padding: 4rem;
