@@ -368,9 +368,10 @@ table td {
     top: 5rem;
     left: 50%;
     transform: translateX(-50%);
-    height: 30dvh;
+    min-height: 40dvh;
     box-shadow: var(--box-shadow);
     transition: .2s linear;
+    padding: 4rem;
   }
   nav{
     padding: 1rem 1.5rem;
